@@ -28,38 +28,7 @@ function App() {
               Dashboard
             </a>
           </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="file" className="align-text-bottom"></span>
-              Orders
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="shopping-cart" className="align-text-bottom"></span>
-              Products
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="users" className="align-text-bottom"></span>
-              Customers
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="bar-chart-2" className="align-text-bottom"></span>
-              Reports
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="layers" className="align-text-bottom"></span>
-              Integrations
-            </a>
-          </li>
         </ul>
-
       </div>
     </nav>
 
