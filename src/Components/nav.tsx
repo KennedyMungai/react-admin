@@ -1,6 +1,6 @@
 import React from 'react'
 
-const nav: React.FC = () => {
+const Nav: React.FC = () => {
     return (
         <header className="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
             <a className="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6" href="#">Company name</a>
@@ -17,4 +17,4 @@ const nav: React.FC = () => {
     )
 }
 
-export default nav
+export default Nav
