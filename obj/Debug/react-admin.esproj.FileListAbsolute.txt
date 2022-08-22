@@ -1,0 +1,2 @@
+C:\Users\HannibalBarca\source\repos\react-admin\react-admin\obj\Debug\react-admin.esproj.SuggestedBindingRedirects.cache
+C:\Users\HannibalBarca\source\repos\react-admin\react-admin\obj\Debug\react-admin.esproj.CoreCompileInputs.cache
