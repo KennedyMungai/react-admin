@@ -72,8 +72,6 @@ function App() {
                             react_1["default"].createElement("button", { type: "button", className: "btn btn-sm btn-outline-secondary dropdown-toggle" },
                                 react_1["default"].createElement("span", { "data-feather": "calendar", className: "align-text-bottom" }),
                                 "This week"))),
-                    react_1["default"].createElement("canvas", { className: "my-4 w-100", id: "myChart", width: "900", height: "380" }),
-                    react_1["default"].createElement("h2", null, "Section title"),
                     react_1["default"].createElement("div", { className: "table-responsive" },
                         react_1["default"].createElement("table", { className: "table table-striped table-sm" },
                             react_1["default"].createElement("thead", null,
