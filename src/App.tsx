@@ -66,32 +66,6 @@ function App() {
             <span data-feather="plus-circle" className="align-text-bottom"></span>
           </a>
         </h6>
-        <ul className="nav flex-column mb-2">
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="file-text" className="align-text-bottom"></span>
-              Current month
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="file-text" className="align-text-bottom"></span>
-              Last quarter
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="file-text" className="align-text-bottom"></span>
-              Social engagement
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">
-              <span data-feather="file-text" className="align-text-bottom"></span>
-              Year-end sale
-            </a>
-          </li>
-        </ul>
       </div>
     </nav>
 
